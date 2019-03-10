@@ -23,14 +23,14 @@ Regeneration of GE HisTrap column by stripping and re-charging.
 ## 1. Materials <a name="materials"></a>
 
 - GE HisTrap column
-- Binding Buffer:
-    - 20 mM PBS pH 7.4
-    - 0.5 M NaCl
-    - 20 mM Imidazole
-- Stripping Buffer:
-    - 20 mM PBS pH 7.4
-    - 0.5 M NaCl
-    - 50 mM EDTA
+- Binding Buffer: (1L)
+    - 1X PBS pH 7.4 (100ml from 10X stock)
+    - 0.5 M NaCl (29.22 g)
+    - 20 mM Imidazole (20 ml from 1M stock)
+- Stripping Buffer: (500ml)
+    - 1X PBS pH 7.4 (50ml from 10X stock)
+    - 0.5 M NaCl (14.61 g)
+    - 50 mM EDTA (71.42 ml from 350mM stock) 
 - distilled H2O
 - regeneration solution:
     - 0.1 M NiSO4 or 0.1 M NiCl2
